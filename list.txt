@@ -1,0 +1,22 @@
+total 208
+drwxr-xr-x  2 adrian adrian 126976 aug 31 15:58 Backup
+drwxr-xr-x  9 adrian adrian   4096 iun 29 21:23 Books
+drwxr-xr-x  2 adrian adrian   4096 sep  3 12:13 Coude
+drwxr-xr-x  5 adrian adrian   4096 iun  6 18:34 Courses
+drwxr-xr-x  2 adrian adrian   4096 iul 30 18:35 Desktop
+drwxr-xr-x 11 adrian adrian   4096 aug 26 17:20 Documents
+drwxr-xr-x 13 adrian adrian   4096 aug 28 17:19 Downloads
+drwxr-xr-x  3 adrian adrian   4096 feb  8  2022 Github
+drwxr-xr-x  3 adrian adrian   4096 aug 29  2021 ml
+drwxr-xr-x  5 adrian adrian   4096 aug  1  2021 Music
+drwxr-xr-x  7 adrian adrian   4096 mai  3 19:55 pgadmin4
+drwxr-xr-x  6 adrian adrian   4096 mar  8 11:57 Pictures
+drwxr-xr-x  3 adrian adrian   4096 iun 28 15:59 ProductEntryDocuments
+drwxr-xr-x  5 adrian adrian   4096 sep 30  2021 Programs
+drwxr-xr-x  2 adrian adrian   4096 aug  1  2021 Public
+-rw-------  1 adrian adrian   1679 mar 30 18:44 qwiklabs-L12656640.pem
+drwxr-xr-x  5 adrian adrian   4096 iul 30 18:05 Scripts
+drwx------  4 adrian adrian   4096 iun  4 16:04 snap
+drwxr-xr-x  2 adrian adrian   4096 aug  1  2021 Templates
+drwxr-xr-x  8 adrian adrian   4096 mar  8 17:42 Videos
+-rw-r--r--  1 adrian adrian    121 sep  3 08:13 wc.txt
